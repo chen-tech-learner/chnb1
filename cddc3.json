@@ -1,4 +1,4 @@
-﻿{
+{
   "spider": "https://wget.la/https://raw.githubusercontent.com/yw88075/tvbox/main/HeChengChaXiu.jar",
   "sites": [
     {
@@ -26,6 +26,26 @@
         "爱情片",
         "喜剧片"
       ]
+    },
+    {
+       "key": "熊猫TV_js",
+       "name": "👨‍🍳‍熊猫TV(drpy_t3)",
+       "type": 3,
+       "api": "https://chuxinya.top/f/DRDGf3/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://chuxinya.top/f/DRDGf3/lib/js/%E7%86%8A%E7%8C%ABTV.js",
+      "jar": "https://chuxinya.top/f/DRDGf3/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%BF%83%E8%BD%AF%E4%BB%B6"
+    },
+    {
+     "key": "熊猫影视",
+     "name": "熊猫影视",
+     "type": 3,
+     "api": "csp_XBPQ",
+     "ext": "https://clun.top/js/s/%E7%86%8A%E7%8C%AB.json",
+    "jar": "https://clun.top/jar/xb.jar"
     },
     {
       "key": "csp_xml_红牛",
