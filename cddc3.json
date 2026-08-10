@@ -2,29 +2,43 @@
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/HeChengChaXiu.jar",
   "sites": [
      {
-    "key": "豆儿猫源",
+    "key": "cat_douer",
     "name": "豆儿猫源",
     "type": 3,
     "api": "https://woleigedouer:woleigedouer@catpaw.douer.me/index.js",
     "searchable": 1
    },
    {
-     "key": "牛二猫源",
+     "key": "cat_niu2",
      "name": "牛二猫源",
      "type": 3,
      "api": "https://9280.kstore.vip/cat/index.js",
      "searchable": 1
    },
     {
-     "key": "4TV解析",
+     "key": "cat_4tv",
      "name": "4TV解析",
      "type": 3,
      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
      "js": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.config.js",
      "searchable": 1
     },  
+     {
+      "key": "cat_xuenai",
+      "name": "雪乃猫源",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js",
+      "searchable": 1
+    },
     {
-      "key": "量子资源",
+      "key": "cat_lmentor",
+      "name": "Lmentor猫源",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js",
+      "searchable": 1
+    },
+    {
+      "key": "lzzy",
       "name": "❤量子资源2",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
@@ -50,7 +64,7 @@
       ]
     },
     {
-       "key": "熊猫TV_js",
+       "key": "xmTV_js",
        "name": "👨‍🍳‍熊猫TV(drpy_t3)",
        "type": 3,
        "api": "https://chuxinya.top/f/DRDGf3/lib/drpy2.min.js",
@@ -62,7 +76,7 @@
       "jar": "https://chuxinya.top/f/DRDGf3/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%BF%83%E8%BD%AF%E4%BB%B6"
     },
     {
-     "key": "熊猫影视",
+     "key": "xmys",
      "name": "熊猫影视",
      "type": 3,
      "api": "csp_XBPQ",
@@ -76,7 +90,7 @@
      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/熊猫直播.py"
     },
     {
-      "key": "csp_xml_红牛",
+      "key": "csp_xml_hn",
       "name": "❤红牛资源",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
@@ -120,7 +134,7 @@
       ]
     },
     {
-      "key": "csp_xml_光速",
+      "key": "csp_xml_gs",
       "name": "❤光速资源",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
@@ -159,7 +173,7 @@
       ]
     },
     {
-      "key": "csp_xml_新浪",
+      "key": "csp_xml_xl",
       "name": "❤新浪资源",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
@@ -198,7 +212,7 @@
       ]
     },
     {
-      "key": "淘片资源",
+      "key": "taopzy",
       "name": "❤淘片资源",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
@@ -252,7 +266,7 @@
       ]
     },
     {
-      "key": "csp_xml_暴风",
+      "key": "csp_xml_bf",
       "name": "❤暴风资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
@@ -295,9 +309,19 @@
   ],
   "lives": [
     {
-      "name": "心魔",
+      "name": "DG直播",
       "type": 0,
-      "url": "https://raw.gitmirror.com/yw88075/tvbox/main/live.txt"
+      "url": "http://1.94.31.214/live/live9/dgtv.txt"
+    },
+    {
+      "name": "咪咕直播",
+      "type": 0,
+      "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u"
+    },
+   {
+      "name": "全国组播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt"
     }
   ],
   "parses": [
