@@ -28,14 +28,6 @@
       ]
     },
     {
-     "key": "xmys",
-     "name": "熊猫影视",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "ext": "https://clun.top/js/s/%E7%86%8A%E7%8C%AB.json",
-    "jar": "https://clun.top/jar/xb.jar"
-    },
-    {
       "key": "csp_xml_hn",
       "name": "❤红牛资源",
       "type": 1,
